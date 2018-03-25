@@ -1,0 +1,39 @@
+John Denmark Sanchez (Project Manager) created Project Charter and Timeline of Activities with the help of other groupmates
+
+John Christian Galela (Front-End Dev) created forms of main menu, doctor info window, GPA info window, patient info window, payment info window, pharmacy inventory and pharmacy office window.
+
+John Christian Galela (Front-End Dev) designed each forms.
+
+John Christian Galela (Front-End Dev) connected each forms
+
+John Denmark Sanchez (Project Manager) tested forms for initial checking
+
+Judel Andrew Castillo (QA Tester) tested forms for finalization.
+
+John Christian Galela (Front-End Dev) and Judel Andrew Castillo (QA Tester) configure errors in front-end
+
+Christian Joshua Canada (Back-End Dev) and John Denmark Sanchez (Project Manager) created tables in MS Access database 
+
+All members added functions Add, Delete, Move up, Move down, Save to DB and close window Buttons
+
+John Denmark Sanchez (Project Manager) tested functions for initial checking
+
+Judel Andrew Castillo (QA Tester) tested functions for finalization
+
+All members configure errors in front-end
+
+Christian Joshua Canada (Back-End Dev) and John Denmark Sanchez (Project Manager) connected vb .net to MS Access database
+
+John Denmark Sanchez (Project Manager) created query for admin/user login
+
+John Denmark Sanchez (Project Manager) and Christian Joshua Canada (Back-End Dev) connected data sources/tables to vb .net
+
+John Denmark Sanchez (Project Manager) tested each forms and connections in MS Access Database for initial checking
+
+Judel Andrew Castillo (QA Tester) tested each forms and connections in MS Access Database for finalization
+
+Judel Andrew Castillo (QA Tester), Christian Joshua Canada (Back-End Dev) and John Denmark Sanchez (Project Manager) configured errors in back-end
+
+John Denmark Sanchez (Project Manager) finalized each forms and functions
+
+All members finalized each forms and connections
